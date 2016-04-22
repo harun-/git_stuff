@@ -1,0 +1,500 @@
+   66  git status
+   67  git commit -m "initial commit"
+   68  git status
+   69  git h1
+   70  /Users/harunsentuerk/Downloads/testdisk-7.0-WIP/photorec ; exit;
+   71  /Users/harunsentuerk/Downloads/testdisk-7.0-WIP/photorec ; exit;
+   72  ls
+   73  git status
+   74  git add .
+   75  git commit -m "visible field indexes can be calculated for each field"
+   76  git h1
+   77  git status
+   78  git add .
+   79  git commit -m "setting the lights described by result is possible now"
+   80  git h1
+   81  git status
+   82  git add .
+   83  git commit -m "excluding two lights in the same line"
+   84  git h1
+   85  git add .
+   86  git commit -m "exactly set n of 1 to 3 added"
+   87  git h1
+   88  git status
+   89  git add .
+   90  git commit -m "Seems to work"
+   91  git h1
+   92  git status
+   93  git status
+   94  git add .
+   95  git commit -m "Coding style improved and comments better"
+   96  git h1
+   97  /Applications/testdisk-7.0-WIP/testdisk ; exit;
+   98  /Applications/testdisk-7.0-WIP/testdisk ; exit;
+   99  testdisk
+  100  .testdisk
+  101  /testdisk
+  102  \testdisk
+  103  ls
+  104  cd ..
+  105  ls
+  106  cd harunsentuerk/
+  107  ls
+  108  /Applications/testdisk-7.0-WIP/photorec ; exit;
+  109  /Applications/testdisk-7.0-WIP/fidentify ; exit;
+  110  /Applications/testdisk-7.0-WIP/testdisk ; exit;
+  111  /Applications/testdisk-7.0-WIP/testdisk ; exit;
+  112  /Applications/testdisk-7.0-WIP/testdisk ; exit;
+  113  /Applications/testdisk-7.0-WIP/fidentify ; exit;
+  114  /Applications/testdisk-7.0-WIP/photorec ; exit;
+  115  gcc
+  116  ls
+  117  cd Desktop/
+  118  ls
+  119  touch test.c
+  120  vim test.c 
+  121  mkdir Telematik_Praxis
+  122  cp test.c Telematik_Praxis/
+  123  del test.c 
+  124  rm test.c 
+  125  cd Telematik_Praxis/
+  126  ls
+  127  vim test.c 
+  128  vim test.c 
+  129  vim test.c 
+  130  vim test.c 
+  131  vim test.c 
+  132  vim test.c 
+  133  vim test.c 
+  134  gcc -S -o test.s test.c
+  135  ls
+  136  vim test.s
+  137  jupyter notebook
+  138  ls
+  139  cd Library/
+  140  ls
+  141  cd ..
+  142  ls
+  143  clear
+  144  ls
+  145  cd PycharmProjects/
+  146  ls
+  147  ls PythonIntroduction/
+  148  cd ..
+  149  ls
+  150  ls anaconda/
+  151  ls
+  152  ls
+  153  clear
+  154  jupyter notebook
+  155  vimtutor
+  156  vimtutor
+  157  vim tutor
+  158  vim tutor
+  159  vimtutor
+  160  vimtutor
+  161  vimtutor
+  162  vim tutor
+  163  vim tutor
+  164  vimtutor
+  165  clear
+  166  ls
+  167  cd Documents/SS\ 16/
+  168  ls
+  169  clear
+  170  vim Mögliche_Gesamtprüfungen.txt
+  171  ls
+  172  ls
+  173  vim Mögliche_Gesamtprüfungen.txt
+  174  touch Mögliche_Gesamtprüfungen.txt
+  175  vim Mögliche_Gesamtprüfungen.txt
+  176  ls
+  177  vim Mögliche_Gesamtprüfungen.txt
+  178  vim Mögliche_Gesamtprüfungen.txt
+  179  vim Mögliche_Gesamtprüfungen.txt
+  180  clear
+  181  ls
+  182  vim tutor 
+  183  vim TEST 
+  184  ls
+  185  rm tutor
+  186  ls
+  187  ls
+  188  cd Desktop/
+  189  ls
+  190  ls
+  191  say Hello World!
+  192  say Hello World!
+  193  history
+  194  clear
+  195  ls
+  196  :q
+  197  quit
+  198  exit
+  199  ls
+  200  ls -a
+  201  ls
+  202  clear
+  203  mkdir unixstuff
+  204  ls
+  205  cd unixstuff/
+  206  ls
+  207  ls -a
+  208  cd .
+  209  ls
+  210  ls
+  211  mkdir backups
+  212  ls
+  213  ls -a
+  214  cd ..
+  215  ls
+  216  cd
+  217  cd unixstuff/backups/
+  218  cd
+  219  cd unixstuff/backups/
+  220  clear
+  221  ls
+  222  cd ..
+  223  ls
+  224  cd
+  225  pwd
+  226  cd ..
+  227  cd ..
+  228  cd ..
+  229  ls
+  230  cd
+  231  clear
+  232  pwd
+  233  cd
+  234  ls
+  235  cd Music/
+  236  ls
+  237  cd iTunes/
+  238  ls
+  239  pwd
+  240  cd
+  241  clear
+  242  ls
+  243  cd unixstuff/
+  244  ls
+  245  clear
+  246  cd
+  247  ls unixstuff/
+  248  ls
+  249  cd unixstuff/
+  250  ls
+  251  cd
+  252  ls backup
+  253  cd
+  254  ls unixstuff/backups/
+  255  ls ~/unixstuff
+  256  cd Desktop/
+  257  ls ~/unixstuff
+  258  cd
+  259  cd unixstuff/
+  260  ls
+  261  clear
+  262  ls
+  263  ls ~
+  264  ls ~/..
+  265  cd ~/unixstuff/
+  266  cp ~/Desktop/science.txt .
+  267  ls
+  268  cp science.txt .
+  269  cp science.txt science.bak
+  270  ls
+  271  vim science.bak 
+  272  cd ~/unixstuff/
+  273  mv science.bak backups/
+  274  ls
+  275  ls backups/
+  276  cp science.txt tempfile.txt
+  277  ls
+  278  rm tempfile.txt 
+  279  ls
+  280  mkdir tempstuff
+  281  ls
+  282  rmdir tempstuff/
+  283  ls
+  284  clear
+  285  cat science.txt 
+  286  less science.txt 
+  287  clear
+  288  head science.txt 
+  289  head -5 science.txt 
+  290  head -1 science.txt 
+  291  tail science.txt 
+  292  tail -1 science.txt 
+  293  clear
+  294  less science.txt 
+  295  clear
+  296  grep science science.txt 
+  297  grep the science.txt 
+  298  clear
+  299  grep Science science.txt 
+  300  grep science science.txt 
+  301  grep -i science science.txt 
+  302  clear
+  303  grep -i science science.txt 
+  304  grep -i 'spinning top' science.txt 
+  305  clear
+  306  grep -in science science.txt 
+  307  clear
+  308  grep -ivc science science.txt 
+  309  grep -ic science science.txt 
+  310  vim science.txt 
+  311  wc -w science.txt 
+  312  wc -l science.txt 
+  313  cd
+  314  clear
+  315  ls
+  316  cd Documents/SS\ 16/
+  317  rm Stundenplan.png
+  318  rm Stundenplan.pdf
+  319  ls
+  320  ls ~/Desktop/
+  321  cp ~/Desktop/Bildschirmfoto\ 2016-04-21\ um\ 11.58.36.png .
+  322  rm Bildschirmfoto\ 2016-04-21\ um\ 11.58.36.png Stundenplan.png
+  323  cp ~/Desktop/Bildschirmfoto\ 2016-04-21\ um\ 11.58.36.png .
+  324  mv Bildschirmfoto\ 2016-04-21\ um\ 11.58.36.png Stundenplan.png
+  325  ls ~/Downloads/
+  326  mv ~/Downloads/print.pdf .
+  327  ls
+  328  clear
+  329  ls
+  330  mv print.pdf Stundenplan.pdf
+  331  clear
+  332  ls
+  333  cat hallo welt
+  334  ls
+  335  vim science.txt 
+  336  cat
+  337  cat > list1
+  338  cat list1
+  339  cat > list2
+  340  cat list2
+  341  clear
+  342  cat >> list1
+  343  cat list1
+  344  ls
+  345  cd unixstuff/
+  346  mv ~/list1 .
+  347  mv ~/list2 .
+  348  ls
+  349  ls ~
+  350  clear
+  351  cat list1 list2 > biglist
+  352  ls
+  353  cat biglist 
+  354  sort
+  355  sort < biglist
+  356  sort < biglist > slist
+  357  vim slist 
+  358  cat slist 
+  359  ls
+  360  clear
+  361  who
+  362  who > names.txt
+  363  sort < names.txt
+  364  ls
+  365  cat names.txt 
+  366  ls
+  367  who | sort
+  368  who | wc -l
+  369  ls
+  370  cat list1 list2 | grep p | sort
+  371  ls list*
+  372  ls
+  373  ls *list
+  374  ls names.txt 
+  375  ls n*
+  376  ls ?list
+  377  ls *list
+  378  ls
+  379  ls *.txt
+  380  ls *t
+  381  clear
+  382  man wc
+  383  wc -mlw list*
+  384  wc -w list*
+  385  wc -m list*
+  386  whatis wc
+  387  man wc
+  388  apropos copy
+  389  clear
+  390  ls
+  391  ls -l
+  392  ls -lg
+  393  wc -m science.txt 
+  394  wc -c science.txt 
+  395  ls
+  396  cat biglist 
+  397  chmod go-rwx biglist
+  398  ls -lg
+  399  chmod a+rw biglist
+  400  ls -lg
+  401  clear
+  402  ls -l
+  403  ls -lg
+  404  ls -l
+  405  chmod u+x science.txt 
+  406  ls -l
+  407  chmod u-x science.txt 
+  408  ls -l
+  409  clear
+  410  ps
+  411  sleep 10
+  412  sleep 10 &
+  413  ps
+  414  ps
+  415  ps
+  416  ps
+  417  sleep 2 &
+  418  sleep 20
+  419  bg
+  420  jobs
+  421  jobs
+  422  jobs
+  423  clear
+  424  jobs
+  425  sleep 15
+  426  bg
+  427  sleep 150
+  428  jobs
+  429  jobs
+  430  jobs
+  431  fg %1
+  432  bg %1
+  433  jobs
+  434  jobs
+  435  sleep 100
+  436  jobs
+  437  kill %1
+  438  jobs
+  439  sleep 100
+  440  jobs
+  441  kill %1
+  442  jobs
+  443  clear
+  444  jobs
+  445  jobs
+  446  clear
+  447  jobs
+  448  clear
+  449  quota -v
+  450  df .
+  451  cd
+  452  du -s *
+  453  du *
+  454  du -s *
+  455  cd unixstuff/
+  456  ls
+  457  ls -l
+  458  ls -l science.txt 
+  459  clear
+  460  ls -l science.txt 
+  461  gzip science.txt 
+  462  ls
+  463  ls -l science.txt*
+  464  ls -l science*
+  465  gunzip science.txt.gz 
+  466  ls
+  467  ls -l science*
+  468  gzip science.txt 
+  469  zcat science.txt.gz 
+  470  ls
+  471  zcat science.txt.gz
+  472  cd
+  473  file *
+  474  cd unixstuff/
+  475  ls
+  476  gunzip science.txt.gz 
+  477  ls
+  478  vim science.txt 
+  479  cp science.txt scienceTemp.txt 
+  480  ls
+  481  vim science
+  482  vim science.txt 
+  483  vim scienceTemp.txt 
+  484  ls
+  485  diff science.txt scienceTemp.txt 
+  486  diff scienceTemp.txt science.txt 
+  487  clear
+  488  clear
+  489  ls
+  490  ls -a
+  491  git
+  492  git show
+  493  git status
+  494  clear
+  495  ls -a
+  496  ls
+  497  clear
+  498  ls
+  499  cd websites/
+  500  ls
+  501  cd Desktop/
+  502  ls ~/Documents/SS\ 16/
+  503  ls Bild*
+  504  rm Bild*
+  505  ls
+  506  cd
+  507  ls
+  508  cd Documents/
+  509  ls
+  510  ls git*
+  511  ls *git*
+  512  ls *SS*
+  513  clear
+  514  ls
+  515  dir gitStuff
+  516  history 50
+  517  history 100
+  518  history
+  519  clear
+  520  mkdir gitStuff
+  521  clear
+  522  ls
+  523  ls 
+  524  clear
+  525  ls
+  526  cd gitStuff/
+  527  clear
+  528  ls
+  529  history > history_bash.txt
+  530  ls
+  531  vim history_bash.txt 
+  532  rm history_bash.txt 
+  533  ls
+  534  ls -a
+  535  git init
+  536  ls
+  537  ls -a
+  538  ls
+  539  clear
+  540  git status
+  541  git h1
+  542  "Testtext" > datei.txt
+  543  cat > datei.txt
+  544  ls
+  545  cat datei.txt 
+  546  git status
+  547  git add datei.txt 
+  548  git status
+  549  git commit -m "Add first datei file"
+  550  cp datei.txt datei2.txt
+  551  cp datei.txt datei3.txt
+  552  cp datei.txt datei4.txt
+  553  git status
+  554  git add "*.txt"
+  555  git status
+  556  git commit -m "Add all the other copied files"
+  557  git h1
+  558  git log
+  559  git h1
+  560  git remote add origin https://github.com/harun-/git_stuff.git
+  561  git push -u origin master
+  562  ls
+  563  ls ..
+  564  clear
+  565  history > bash_history.txt
